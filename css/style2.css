@@ -1,0 +1,16 @@
+.blue-font {
+    color: #3289a8;
+}
+
+body {
+    background-color: beige;
+}
+
+.centered {
+    text-align: center;
+}
+
+.centered img {
+    border-style: solid;
+    border-color: #3289a8;
+}

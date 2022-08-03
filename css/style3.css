@@ -1,0 +1,16 @@
+.blue-font {
+    color: #3289a8;
+}
+
+body {
+    background-color: beige;
+}
+
+.centered-title-img {
+    text-align: center;
+}
+
+.centered-title-img img {
+    border-style: solid;
+    border-color: #3289a8;
+}
