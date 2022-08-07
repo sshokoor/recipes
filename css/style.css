@@ -1,0 +1,10 @@
+body {
+    background-color: beige;
+}
+ul {
+    display:inline-flex;
+}
+
+li {
+    padding-right: 50px;
+}
